@@ -1,0 +1,15 @@
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\bin\Debug\DimexSaldos.exe.config
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\bin\Debug\DimexSaldos.exe
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\bin\Debug\DimexSaldos.pdb
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\obj\Debug\DimexSaldos.csprojAssemblyReference.cache
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\obj\Debug\MainWindow.g.cs
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\obj\Debug\App.g.cs
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\obj\Debug\DimexSaldos_MarkupCompile.cache
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\obj\Debug\DimexSaldos_MarkupCompile.lref
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\obj\Debug\MainWindow.baml
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\obj\Debug\DimexSaldos.g.resources
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\obj\Debug\DimexSaldos.Properties.Resources.resources
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\obj\Debug\DimexSaldos.csproj.GenerateResource.cache
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\obj\Debug\DimexSaldos.csproj.CoreCompileInputs.cache
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\obj\Debug\DimexSaldos.exe
+C:\Users\Marco Martinez\source\repos\DimexSaldos\DimexSaldos\obj\Debug\DimexSaldos.pdb
